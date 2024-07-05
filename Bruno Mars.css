@@ -1,0 +1,190 @@
+*{
+    text-decoration: none;
+    padding: 3px;
+    margin: 0px;
+}
+
+
+
+body{
+    padding: 5px;
+    margin: 5px;
+    scroll-behavior: smooth;
+    background-color:  #0C0C0C;
+}
+
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 10px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 1px;
+    background-color: black;
+    border-bottom: none;
+}
+
+
+
+
+.wrapper{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+
+.Logo a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: wheat;
+    font-weight: bold;
+    border-radius: 25dvi;
+    line-height: 40px;
+    float: left;
+}   
+
+
+
+
+.Menu{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: wheat;
+    font-size: 10px;    
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 5px;
+    margin: 10PX;
+    overflow: hidden;
+}
+
+
+
+nav ul li{
+    float: left;
+}
+
+
+nav ul li a{
+    color:  wheat;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding: 0px 16px 0px 16px;
+}
+
+
+nav ul li a:hover {
+    background: wheat;
+    color: #0C0C0C;
+    border-radius: 25dvi;
+  }
+
+
+
+.Kolom{
+    text-align: center;
+}
+
+.Kolom :hover{
+    color: red;
+    border-radius: 10dvi;
+}
+
+
+.copyright{
+    text-align: center;
+    color:  wheat;
+    font-size: 13px;
+}
+
+
+.footer{
+    text-align: center;
+    color:  wheat;
+}
+
+.Kolom{
+    color:  wheat;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.deskripsi{
+    color: wheat;
+    text-align: center;
+}
+
+
+
+.Kolom{
+    text-align: center;
+    color: wheat;
+}
+
+
+.Unorthodox-Jukebox{
+    text-align: left;
+    color: wheat;
+}
+
+
+.Unorthodox-Jukebox:hover{
+    color: red;
+    background: #0C0C0C;
+    border-radius: 25dvi;
+}
+
+
+.Konser-Bruno-Mars{
+    text-align: center;
+    color: wheat;
+}
+
+
+.Konser-Bruno-Mars:hover{
+    color: red;
+    background: #0C0C0C;
+    border-radius: 25dvi;
+}
+
+
+
+.ALBUM-24K-MAGIC{
+    text-align: right;
+    color: wheat;
+}
+
+
+.ALBUM-24K-MAGIC:hover{
+    color: red;
+    background: #0C0C0C;
+    border-radius: 25dvi;
+}
+
+
+.footer{
+    float: center;
+}
+
+
+.div-id{
+    text-align: center;
+}
+
+
+
+
+
+
+
